@@ -2,9 +2,9 @@
 A little car forum made with flask 
 
 
-### Development notes
+## Development notes
 
-## DB server for the api
+### DB server for the api
 
 Now you could easily start/stop a mongodb server to use with the api.
 
